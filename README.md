@@ -20,10 +20,10 @@
   <p align="center">
     DediManager is a Linux Java based application developed to manage, secure, and automate your Minecraft Server Network!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/KyleYYC/DediManager/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#demo">View Demo</a>
     ·
     <a href="https://github.com/KyleYYC/DediManager/issues">Report Bug</a>
     ·
@@ -40,18 +40,26 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#Introduction">Introduction</a></li>
         <li><a href="#Objective">Objective</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <ul>
+          <li><a href="#installation">Centos 7</a></li>
+          <li><a href="#installation">Centos 8</a></li>
+        </ul>
       </ul>
     </li>
+    
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -128,7 +136,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
+## Demo
 
 <!-- ROADMAP -->
 ## Roadmap
