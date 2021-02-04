@@ -40,8 +40,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Introduction">Introduction</a></li>
-        <li><a href="#Objective">Objective</a></li>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#objective">Objective</a></li>
+        <li><a href="#features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -50,14 +51,27 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <ul style="list-style-type:circle">
-          <li><a href="#installation">Centos 7</a></li>
-          <li><a href="#installation">Centos 8</a></li>
+        <ul>
+          <li><a href="#centos-7">Centos 7</a></li>
+          <li><a href="#centos-8">Centos 8</a></li>
+          <li><a href="#debian-9">Debian 9</a></li>
+          <li><a href="#debian-10">Debian 10</a></li>
+          <li><a href="#ubuntu">Ubuntu</a></li>
+        </ul>
+        <li><a href="#minecraft-proxy">Minecraft Proxy</a></li>
+        <ul>
+          <li><a href="#bungeecord">Bungeecord</a></li>
+          <li><a href="#waterfall">Waterfall</a></li>
         </ul>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#demo">Demo</a></li>
+   <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#demo">Demo</a></li>
+        <li><a href="#commands">Commands</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -83,9 +97,18 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+### Introduction
+
+This is the intro
+
 ### Objective
 
-This would be something under object
+This would be something under objective
+
+### Features
+
+This is a list of features
 
 
 ### Built With
@@ -109,7 +132,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+## Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -124,8 +147,35 @@ This is an example of how to list things you need to use the software and how to
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
+### Centos 7
 
+This is for centos 7
 
+### Centos 8
+
+This is for centos 8
+
+### Debian 9
+
+This is for Debian 9
+
+### Debian 10
+
+This is for Debian 10
+
+### Ubuntu
+
+This is for Ubuntu
+
+## Minecraft Proxy
+
+### Bungeecord
+
+This is for Bungeecord
+
+### Waterfall
+
+This is for Waterfall
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -135,6 +185,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Demo
+
+Demo of Application
+
+## Commands
+
+Commands List
 
 <!-- ROADMAP -->
 ## Roadmap
