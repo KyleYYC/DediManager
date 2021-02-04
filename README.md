@@ -50,7 +50,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <ul>
+        <ul style="list-style-type:circle">
           <li><a href="#installation">Centos 7</a></li>
           <li><a href="#installation">Centos 8</a></li>
         </ul>
