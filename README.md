@@ -18,7 +18,7 @@
     <img src="img/logo.png">
   </a>
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    DediManager is a Linux Java based application developed to manage, secure, and automate your Minecraft Server Network!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
