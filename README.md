@@ -87,24 +87,25 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+DediManager is a Linux based application written in java and developed to manage, secure, and automate your Minecraft Server Network. A big part of every server owners goal is to grow and gain and more loyal and engaged playerbase. When upgrading and expanding your servers playerbase you have plenty of expenses already coming your way, the idea of potentially adding more expenses before increasing revenue can be intimidating. A large majority of server owners are running on shared hosts with Multicraft or Pterodactyl setup. The convenience of these services are very appealing and usually the best option for starting off. However once your server is bringing in revenue, you need to start treating it like a business by planning on expanding to take your server to the next level.
 
 ### Introduction
 
-This is the intro
+Performance & connectivity is one of the most crucial parts to your server success, if either are suffering you are potentially sending players to find a server without those issues present. Having your TPS at 20.00 and fast connection speeds will guarantee more player satisfaction and can also be turned into a strong marketing tactic as many servers struggle with this issue. This is where server owners look to upgrade to a virtual private server or a dedicated server to give them more bang for their buck, mainly will pay a system admin a 1 time fee often ranging of above $30 USD to ultimately just type a few commands. This is where the idea for DediManager started, the idea of creating a program that was programmed to create and manager custom minecraft network's running on any operating system for a small 1 time fee.
+
+DediManager comes with many useful and important tools to ensure your server is running at it's highest performance some examples of features are:
+ * Extensive User Interface
+ * File Editing & Management
+ * Multiple Users
+ * Scheduled Backups
+ * Security & Network Protection
+ * and many more!
+ 
+If you are wanting to view more features with a description on how each of them work click here.
 
 ### Objective
 
-This would be something under objective
+DediManager's objective is to simplify the transition and startup of Minecraft server networks running on any operating system. It was developed to be a "plug n play" application that requires 0 knowledge on dedicated servers. It is also a great tool to transfer already existing networks and servers to different systems, making anybody with FTP access able to transfer server data. Editing files such as 'server.properties' or 'spigot.yml' becomes very tedious and can get messy quickly when you have many servers running on a system. The File Editing & Management system makes this process simple, print out differences, change values, and reset any minecraft server file. 
 
 ### Features
 
