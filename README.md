@@ -1,6 +1,5 @@
 # DediManager
 
-<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -8,8 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Website][website-shield]][website-url]
-</div>
-
 
 <!-- PROJECT LOGO -->
 <br />
