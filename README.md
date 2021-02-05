@@ -97,7 +97,7 @@ DediManager is a Linux based application written in java and developed to manage
 
 <p align="center">
   <a href="https://github.com/KyleYYC/DediManager">
-    <img src="img/intro.png">
+    <img src="img/1.png" width="500" height="250">
   </a>
 </p>
 
