@@ -128,7 +128,12 @@ DediManager's objective is to simplify the transition and startup of Minecraft s
 This is a list of features
 
 <!-- GETTING STARTED -->
-## Getting Started
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/gettingstarted.png">
+  </a>
+</p>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -141,7 +146,13 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-## Installation
+<!--Installation-->
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/install.png">
+  </a>
+</p>
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -176,7 +187,13 @@ This is for Debian 10
 
 This is for Ubuntu
 
-## Minecraft Proxy
+<!--Minecraft Proxy-->
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/proxy.png">
+  </a>
+</p>
 
 ### Bungeecord
 
@@ -193,23 +210,45 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-## Demo
+<!--Demo-->
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/demo.png">
+  </a>
+</p>
 
 Demo of Application
 
-## Commands
+<!--Commands-->
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/commands.png">
+  </a>
+</p>
 
 Commands List
 
 <!-- ROADMAP -->
-## Roadmap
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/roadmap.png">
+  </a>
+</p>
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/contributing.png">
+  </a>
+</p>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -222,14 +261,24 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/license.png">
+  </a>
+</p>
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/contact.png">
+  </a>
+</p>
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
