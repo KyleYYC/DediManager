@@ -93,7 +93,7 @@
 
 DediManager is a Linux based application written in java and developed to manage, secure, and automate your Minecraft Server Network. A big part of every server owners goal is to grow and gain and more loyal and engaged playerbase. When upgrading and expanding your servers playerbase you have plenty of expenses already coming your way, the idea of potentially adding more expenses before increasing revenue can be intimidating. A large majority of server owners are running on shared hosts with Multicraft or Pterodactyl setup. The convenience of these services are very appealing and usually the best option for starting off. However once your server is bringing in revenue, you need to start treating it like a business by planning on expanding to take your server to the next level.
 
-### Introduction
+<!--Introduction-->
 
 <p align="center">
   <a href="https://github.com/KyleYYC/DediManager">
@@ -110,24 +110,22 @@ DediManager comes with many useful and important tools to ensure your server is 
  * Scheduled Backups
  * Security & Network Protection
  * and many more!
- 
-If you are wanting to view more features with a description on how each of them work click here.
 
-### Objective
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/objective.png">
+  </a>
+</p>
 
 DediManager's objective is to simplify the transition and startup of Minecraft server networks running on any operating system. It was developed to be a "plug n play" application that requires 0 knowledge on dedicated servers. It is also a great tool to transfer already existing networks and servers to different systems, making anybody with FTP access able to transfer server data. Editing files such as 'server.properties' or 'spigot.yml' becomes very tedious and can get messy quickly when you have many servers running on a system. The File Editing & Management system makes this process simple, print out differences, change values, and reset any minecraft server file. 
 
-### Features
+<p align="center">
+  <a href="https://github.com/KyleYYC/DediManager">
+    <img src="img/features.png">
+  </a>
+</p>
 
 This is a list of features
-
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
