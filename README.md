@@ -146,28 +146,38 @@ Getting started is easy with DediManager and the setup takes around 5-10 minutes
 
 ### SSH Command Line
 
-1. Change your directory to /home/ or to where you'd like the directory for DediManager to be saved
+**NOTE:** Linux GNU Screen is highly reccomended and should be installed prior, to check if it is installed by typing `screen --version`
+
+**1.** Change your directory to `/home/` or to where you'd like the directory for DediManager to be saved
   ```sh
   cd /home/
   ```
-2. Create a directory called "DediManager" or "Manager"
+**2.** Create a directory called "DediManager" or "Manager"
   ```sh
   mkdir dedimanager
   ```
-3. Upload DediManager.jar to /home/dedimanager/ via Command Prompt or Terminal from your local machine
+**3.** Upload DediManager.jar to `/home/dedimanager/` via Command Prompt or Terminal from your local machine
   ```sh
   scp /Path/To/DediManager/DediManager.jar username@host:/home/dedimanager/
   ```
-4. Create the 'start.sh' script in /home/dedimanager/ and copy the following code into the file and save
+**4.** Create the `start.sh` script in `/home/dedimanager/` and copy the following code into the file and save
   ```sh
   vi start.sh
   ```
   ```sh
   java -Xms1G -Xmx1G -jar DediManager.jar
   ```
-5. Give the 'start.sh' file permission to read, write, and execute
+**5.** Give the `start.sh` file permission to read, write, and execute
   ```sh
   chmod 777 ./start.sh
+  ```
+**6.** Create a screen session for DediManager
+  ```sh
+  screen -S dedimanager
+  ```
+**5.** Launch DediManager and follow through with the installation process
+  ```sh
+  ./start.sh
   ```
 <!--Installation-->
 
@@ -291,7 +301,7 @@ Contributions are what make the open source community such an amazing place to b
   </a>
 </p>
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU License. See `LICENSE` for more information.
 
 
 
