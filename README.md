@@ -88,9 +88,9 @@
   </a>
 </p>
 
-DediManager is a Linux based application written in java and developed to manage, secure, and automate your Minecraft Server Network. A big part of every server owners goal is to grow and gain and more loyal and engaged playerbase. When upgrading and expanding your servers playerbase you have plenty of expenses already coming your way, the idea of potentially adding more expenses before increasing revenue can be intimidating. A large majority of server owners are running on shared hosts with Multicraft or Pterodactyl setup. The convenience of these services are very appealing and usually the best option for starting off. However once your server is bringing in revenue, you need to start treating it like a business by planning on expanding to take your server to the next level.
+DediManager is a Linux based application written in java and developed to manage, secure, and automate your Minecraft Server Network. A big part of every server owners goal is to grow and gain a more loyal and engaged playerbase. When upgrading and expanding your network you already have plenty of expenses already coming your way, the idea of potentially adding more expenses before increasing revenue can be intimidating. A large majority of server owners are running on shared hosts with Multicraft or Pterodactyl setup. The convenience of these services are very appealing and usually the best option for starting off. However once your server is bringing in monthly profit, you need to start treating it like a business by reinvesting your earnings.
 
-Performance & connectivity is one of the most crucial parts to your server success, if either are suffering you are potentially sending players to find a server without those issues present. Having your TPS at 20.00 and fast connection speeds will guarantee more player satisfaction and can also be turned into a strong marketing tactic as many servers struggle with this issue. This is where server owners look to upgrade to a virtual private server or a dedicated server to give them more bang for their buck, mainly will pay a system admin a 1 time fee often ranging of above $30 USD to ultimately just type a few commands. This is where the idea for DediManager started, the idea of creating a program that was programmed to create and manager custom minecraft network's running on any operating system for a small 1 time fee.
+Performance & connectivity is one of the most crucial parts to your server success, if either are suffering you are potentially sending players to find a server without those issues present. Having your TPS at 20.00 and fast connection speeds will guarantee more player satisfaction and can also be turned into a strong marketing tactic as many servers struggle with this issue. This is where server owners look to upgrade to a virtual private server or a dedicated server to give them more bang for their buck, this switch will usually give performance a boost but requires some basic knowledge on Linux and the installed OS. This is where the idea for DediManager started, the idea of creating a program that was programmed to create and manage custom minecraft network's running on any operating system was appealing.
 
 DediManager comes with many useful and important tools to ensure your server is running at it's highest performance some examples of features are:
  * Extensive User Interface
@@ -124,13 +124,15 @@ DediManager is packed full of complex, and basic features that will help consist
  * Multiple User Support
  * Scheduled Backups
  * Security & Network Protection
- * Install/Uninstall linux applications
+ * Install/Uninstall Linux applications
  * Dispatch Linux/Bungee/Bukkit/Spigot commands from network console
  * Developer API
  * Version Comparison
  * Network File Cleaner
  * Network Optimizer
  * Configure RAM & Network bash scripts
+ * Update plugins network wide
+ * Create & Delete Servers
  
 <!-- GETTING STARTED -->
 
@@ -140,17 +142,20 @@ DediManager is packed full of complex, and basic features that will help consist
   </a>
 </p>
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Getting started is easy with DediManager and the setup takes around 5-10 minutes, you'll need SSH or FTP access to your dedicated server first. I recommend using PuTTY or FileZilla depending on what you are most comfortable with. You'll need to create a directory for DediManager the location of the directory doesn't matter but for this I like to use the /home/ directory.
 
-### Prerequisites
+### SSH Command Line
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+1. Change your directory to /home/ or to where you'd like the directory for DediManager to be saved
   ```sh
-  npm install npm@latest -g
+  cd /home/
   ```
-
+2. Create a directory called "DediManager" or "Manager"
+  ```sh
+  mkdir dedimanager
+  ```
+3. Upload DediManager.jar to /home/dedimanager/
 <!--Installation-->
 
 <p align="center">
