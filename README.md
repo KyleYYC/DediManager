@@ -313,11 +313,20 @@ Distributed under the GNU License. See `LICENSE` for more information.
   </a>
 </p>
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+> Kyle is currently the only active developer for this project
+
+| <a href="http://theglobaltrail.com" target="_blank" align="center">**KyleYYC**</a> |
+| :---: |
+| [![The Global Trail](https://avatars2.githubusercontent.com/u/58207022?s=400&u=6e2269de1a95b156da27bf59a1e9934395a7130a&v=4?s=175)](http://theglobaltrail.com)    |
+| <a href="http://github.com/KyleYYC" target="_blank">`github.com/KyleYYC`</a> |
 
 
+---
+
+Kyle - [@realKyleYYC](https://twitter.com/realKyleYYC) - kylesimmonds.yyc@gmail.com
+
+Project Link: [https://github.com/KyleYYC/DediManager](https://github.com/KyleYYC/DediManager)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
