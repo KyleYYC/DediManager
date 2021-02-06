@@ -146,7 +146,6 @@ Getting started is easy with DediManager and the setup takes around 5-10 minutes
 
 ### SSH Command Line
 
-This is an example of how to list things you need to use the software and how to install them.
 1. Change your directory to /home/ or to where you'd like the directory for DediManager to be saved
   ```sh
   cd /home/
@@ -155,7 +154,21 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   mkdir dedimanager
   ```
-3. Upload DediManager.jar to /home/dedimanager/
+3. Upload DediManager.jar to /home/dedimanager/ via Command Prompt or Terminal from your local machine
+  ```sh
+  scp /Path/To/DediManager/DediManager.jar username@host:/home/dedimanager/
+  ```
+4. Create the 'start.sh' script in /home/dedimanager/ and copy the following code into the file and save
+  ```sh
+  vi start.sh
+  ```
+  ```sh
+  java -Xms1G -Xmx1G -jar DediManager.jar
+  ```
+5. Give the 'start.sh' file permission to read, write, and execute
+  ```sh
+  chmod 777 ./start.sh
+  ```
 <!--Installation-->
 
 <p align="center">
