@@ -263,8 +263,8 @@ Demo of Application
 
 Commands | Description
 -------- | -----------
-help [-cmds/-backups] | The main help command that can be referred to at anytime, appropiate variables would be `-cmds` or `-backups` which will contain a more detailed explanation
-backup [-zip] [File/Directory Path] | Creates a backup of the specified path, registered servers can also be used instead of the file path
+`help [-cmds/-backups]` | The main help command that can be referred to at anytime, appropiate variables would be `-cmds` or `-backups` which will contain a more detailed explanation
+`backup [-zip] [File/Directory Path]` | Creates a backup of the specified path, registered servers can also be used instead of the file path
 <!-- ROADMAP -->
 
 <p align="center">
