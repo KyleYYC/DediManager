@@ -93,11 +93,12 @@ DediManager is a Linux based application written in java and developed to manage
 Performance & connectivity is one of the most crucial parts to your server success, if either are suffering you are potentially sending players to find a server without those issues present. Having your TPS at 20.00 and fast connection speeds will guarantee more player satisfaction and can also be turned into a strong marketing tactic as many servers struggle with this issue. This is where server owners look to upgrade to a virtual private server or a dedicated server to give them more bang for their buck, this switch will usually give performance a boost but requires some basic knowledge on Linux and the installed OS. This is where the idea for DediManager started, the idea of creating a program that was programmed to create and manage custom minecraft network's running on any operating system was appealing.
 
 DediManager comes with many useful and important tools to ensure your server is running at it's highest performance some examples of features are:
- * Extensive User Interface
+ * Extensive User Interface from command prompt
  * File Editing & Management
  * Multiple Users
  * Scheduled Backups
  * Security & Network Protection
+ * Developer API and Custom Plugin Support
  * and many more!
 
 <p align="center">
@@ -106,7 +107,7 @@ DediManager comes with many useful and important tools to ensure your server is 
   </a>
 </p>
 
-DediManager's objective is to simplify the transition and startup of Minecraft server networks running on any operating system. It was developed to be a "plug n play" application that requires 0 knowledge on dedicated servers. It is also a great tool to transfer already existing networks and servers to different systems, making anybody with FTP access able to transfer server data. Editing files such as 'server.properties' or 'spigot.yml' becomes very tedious and can get messy quickly when you have many servers running on a system. The File Editing & Management system makes this process simple, print out differences, change values, and reset any minecraft server file.
+DediManager's objective is to simplify the transition and startup of Minecraft server networks running on any operating system. It was developed to be a "plug n play" application that requires 0 knowledge on dedicated servers. It is also a great tool to transfer already existing networks and servers to different systems, making anybody with FTP access able to transfer server data. Editing files such as 'server.properties' or 'spigot.yml' becomes very tedious and can get messy quickly when you have many servers running on a system. The File Editing & Management system makes this process simple, print out differences, change values, and can reset any minecraft server file.
 
 High quality Minecraft network standards are tough to compete with, but with DediManager you can allow yourself to save money and give yourself more control over your network. One of the major goals with DediManager is to eliminate the need for a system administrator entirely. The reality of the situation is a system administrator is usually more convenient, reliable, and able to fix any issues that may come their way. 
 
@@ -131,7 +132,7 @@ DediManager is packed full of complex, and basic features that will help consist
  * Network File Cleaner
  * Network Optimizer
  * Configure RAM & Network bash scripts
- * Update plugins network wide
+ * Update minecraft plugins network wide
  * Create & Delete Servers
  
 <!-- GETTING STARTED -->
